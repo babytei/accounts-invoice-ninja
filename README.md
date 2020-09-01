@@ -1,1 +1,1 @@
-# Inoice-ninja integration
+# Invoice Ninja Integration
